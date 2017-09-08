@@ -1,0 +1,8 @@
+{
+  "host": "127.0.0.1",
+  "port": "4000",
+  "watch": true,
+  "delay": 500,
+  "quiet": false,
+  "routes": "src/mock/routes.json"
+}
